@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NoticeBoard</string>
+    <!--Menu Drawer Strings -->
+    <string name="ad_cat1">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компютеры</string>
+    <string name="ad_smartphone">Смартфоны</string>
+    <string name="ad_dm">Бытовая техника</string>
+    <string name="ad_cat2">Аккунт</string>
+    <string name="ac_sing_up">Регистрация</string>
+    <string name="ac_sing_in">Вход</string>
+    <string name="ac_sing_out">Выход</string>
 </resources>
